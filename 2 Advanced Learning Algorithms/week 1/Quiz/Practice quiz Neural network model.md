@@ -2,7 +2,7 @@
 
 1. For a neural network, what is the expression for calculating the activation of the third neuron in layer 2? Note, this is different from the question that you saw in the lecture video.
 
-- [x] a<sup>[2]</sup><sub>{3}</sub>=g( \vec{w}^{[2]}_{3} \cdot \vec{a}^{[1]} + b^{[2]}_{3} )a 3[2] =g(w3[2] ⋅ a[1] +b3[2] ) 
+- [x] a<sup>[2]</sup><sub>{3}</sub>=g( \vec{w}<sup>[2]</sup><sub>3</sub> ⋅ \vec{a}<sup>[1]</sup> + b<sup>[2]</sup><sub>3</sub> )a 3[2] =g(w3[2] ⋅ a[1] +b3[2] ) 
 
 Correct
 Yes! The superscript [2] refers to layer 2. The subscript 3 refers to the neuron in that layer. The input to layer 2 is the activation vector from layer 1.
