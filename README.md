@@ -10,10 +10,10 @@ Programming assignments and quizzes from all courses in the Coursera [Machine Le
 
 ### Course 2: Advanced Learning Algorithms
 
-- [C2 W1 Assignment](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%201/C2_W1_Assignment/C2_W1_Assignment.ipynb)
-- [C2 W2 Assignment](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%202/C2_W2_Assignment/C2_W2_Assignment.ipynb)
-- [C2 W3 Assignment](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%203/C2_W3_Assignment/C2_W3_Assignment.ipynb)
-- [C2 W4 Assignment](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%204/C2_W4_Assignment/C2_W4_Decision_Tree_with_Markdown.ipynb)
+- [C2 W1 Neural Networks for Handwritten Digit Recognition, Binary](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%201/C2_W1_Assignment/C2_W1_Assignment.ipynb)
+- [C2 W2 Neural Networks for Handwritten Digit Recognition, Multiclass](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%202/C2_W2_Assignment/C2_W2_Assignment.ipynb)
+- [C2 W3 Advice for Applying Machine Learning](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%203/C2_W3_Assignment/C2_W3_Assignment.ipynb)
+- [C2 W4 Decision Trees](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%204/C2_W4_Assignment/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
 ### Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
 
@@ -34,20 +34,20 @@ Programming assignments and quizzes from all courses in the Coursera [Machine Le
 
 ### Course 2: Advanced Learning Algorithms
 
-- Week 1 - Neural Network Intuition [Text]() | [PDF]()
-- Week 1 - Neural Network Implementation in Python [Text]() | [PDF]()
-- Week 1 - Neural Network Model [Text]() | [PDF]()
-- Week 1 - Tensorflow Implementation [Text]() | [PDF]()
-- Week 2 - Multiclass Classification [Text]() | [PDF]()
-- Week 2 - Activation Functions [Text]() | [PDF]()
-- Week 2 - Additional Neural Network Concepts [Text]() | [PDF]()
-- Week 2 - Neural Network Training [Text]() | [PDF]()
-- Week 3 - Advice for applying machine learning [Text]() | [PDF]()
-- Week 3 - Bias and Variance [Text]() | [PDF]()
-- Week 3 - Machine Learning Development Process [Text]() | [PDF]()
-- Week 4 - Decision Trees [Text]() | [PDF]()
-- Week 4 - Decision Tree Learning [Text]() | [PDF]()
-- Week 4 - Tree Ensembles [Text]() | [PDF]()
+- Week 1 - Neural Network Intuition [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%201/Quiz/Practice%20Quiz%20Neural%20network%20intuition.md) | [PDF]()
+- Week 1 - Neural Network Implementation in Python [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%201/Quiz/Practice%20quiz%20Neural%20network%20implementation%20in%20Python.md) | [PDF](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%201/Quiz/Practice%20quiz%20Neural%20network%20implementation%20in%20Python.pdf)
+- Week 1 - Neural Network Model [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%201/Quiz/Practice%20quiz%20Neural%20network%20model.md)
+- Week 1 - Tensorflow Implementation [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%201/Quiz/Practice%20quiz%20TensorFlow%20implementation.md) | [PDF](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%201/Quiz/Practice%20quiz%20TensorFlow%20implementation.pdf)
+- Week 2 - Multiclass Classification [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%202/Quiz/Practice%20qui%20Multiclass%20Classification.md)
+- Week 2 - Activation Functions [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%202/Quiz/Practice%20quiz%20Activation%20Functions.md)
+- Week 2 - Additional Neural Network Concepts [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%202/Quiz/Practice%20quiz%20Additional%20Neural%20Network%20Concepts.md)
+- Week 2 - Neural Network Training [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%202/Quiz/Practice%20quiz%20Neural%20Network%20Training.md) | [PDF](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%202/Quiz/Practice%20quiz%20Neural%20Network%20Training.pdf)
+- Week 3 - Advice for applying machine learning [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%203/Quiz/Practice%20quiz%20Advice%20for%20applying%20machine%20learning.md)
+- Week 3 - Bias and Variance [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%203/Quiz/Practice%20quiz%20Bias%20and%20variance.md)
+- Week 3 - Machine Learning Development Process [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%203/Quiz/Practice%20quiz%20Machine%20learning%20development%20process.md)
+- Week 4 - Decision Trees [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%204/Quiz/Practice%20Quiz%20Decision%20Trees.md) | [PDF](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%204/Quiz/Practice%20Quiz%20Decision%20Trees.pdf)
+- Week 4 - Decision Tree Learning [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%204/Quiz/Practice%20Quiz%20Decision%20Tree%20Learning.md) | [PDF](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%204/Quiz/Practice%20Quiz%20Decision%20Tree%20Learning.pdf)
+- Week 4 - Tree Ensembles [Text](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%204/Quiz/Practice%20Quiz%20Tree%20Ensembles.md) | [PDF](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/2%20Advanced%20Learning%20Algorithms/week%204/Quiz/Practice%20Quiz%20Tree%20Ensembles.pdf)
 
 ### Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
 
