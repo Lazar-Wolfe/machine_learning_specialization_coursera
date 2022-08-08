@@ -17,7 +17,11 @@ Programming assignments and quizzes from all courses in the Coursera [Machine Le
 
 ### Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
 
-- []()
+- [C3 W1 k-means](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/3%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%201/Programming%20Assignment%20k-means/C3_W1_KMeans_Assignment.ipynb)
+- [C3 W1 Anomaly Detection](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/3%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%201/Programming%20Assignment%20Anomaly%20Detection/C3_W1_Anomaly_Detection.ipynb)
+- [C3 W2 Collaborative Filtering Recommender Systems](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/3%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%202/Collaborative%20Filtering%20Recommender%20Systems/C3_W2_Collaborative_RecSys_Assignment.ipynb)
+- [C3 W2 Deep Learning for Content based filtering](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/3%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%202/Deep%20Learning%20for%20content%20based%20filtering/C3_W2_RecSysNN_Assignment.ipynb)
+- [C3 W3 Deep Q Learning Lunar Lander](https://github.com/Lazar-Wolfe/machine_learning_specialization_coursera/blob/main/3%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%203/Deep%20Q%20Learning%20Lunar%20Lander/C3_W3_A1_Assignment.ipynb)
 
 ## Quiz Solutions
 
